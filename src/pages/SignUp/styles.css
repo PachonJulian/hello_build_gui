@@ -1,0 +1,9 @@
+.textLabel{
+    font-weight: bold;
+    text-align: left;
+    float: left;
+}
+
+.signUpRow{
+    padding-bottom: 1rem;
+}

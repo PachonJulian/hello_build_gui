@@ -1,0 +1,10 @@
+.githubInfoRow{
+    padding-bottom: 10rem;
+}
+
+.logoImg {
+    height: auto;
+    max-height: 350px;
+    width: auto;
+    max-width: 350px;
+  }
